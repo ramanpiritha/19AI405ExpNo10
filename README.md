@@ -1,7 +1,11 @@
+
+
+# ExpNo:10 Implementation of Classical Planning Algorithm
+
+## Date:13-05-2024
 # Name: Piritharaman R
 # Ref no: 212223230148
 
-# ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
